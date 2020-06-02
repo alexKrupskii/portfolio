@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+@font-face  {
+  font-family: "Poppins";
+  src: url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,800,900&display=swap');
+}
+
+@font-face {
+  font-family: 'Varela Round', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Varela+Round');
+}
+
+
+.app {
+  //background: url(./assets/img/home_bg.jpg) no-repeat center top / cover;
+  background-color: #000;
+  height: 100vh;
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 0 30px;
+  height: 100vh;
+  display: flex;
+
+}
+
+h1 {
+  font-size: 40px;
+}
