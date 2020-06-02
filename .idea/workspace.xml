@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c49f082-bc09-418a-a080-896e70d8e84c" name="Default Changelist" comment="deleted idea">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/home_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/About/About.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/About/About.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Home/Home.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Home/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7c49f082-bc09-418a-a080-896e70d8e84c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/Home/Home.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Home/Home.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Home/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,8 +71,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591102455228</updated>
-      <workItem from="1591102456661" duration="18915000" />
+      <workItem from="1591102456661" duration="21541000" />
     </task>
+    <task id="LOCAL-00001" summary="deleted idea">
+      <created>1591130691347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591130691347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +109,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="deleted idea" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1591130662326">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1591130690071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591130662326" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591130690071" />
     <state x="595" y="298" key="EditFileWatcherDialog" timestamp="1591105544239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -128,10 +121,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="830" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591130564696" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1591130448374">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1591130699568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591130448374" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591130699568" />
     <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1591127266079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

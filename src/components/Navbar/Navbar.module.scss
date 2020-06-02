@@ -1,11 +1,11 @@
 .navbar {
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Poppins";
   display: flex;
   flex-direction: column;
   justify-content: center;
   height: 100%;
-  width: 150px;
-  border-right: 3px solid transparent ;
+  width: 115px;
+  border-right: 2px solid transparent ;
   border-image: linear-gradient(rgba(235, 33, 65, 0.15),#eb2141, #0b95dd, rgba(11, 149, 221, 0.16));
   border-image-slice: 1;
 
@@ -43,7 +43,7 @@
         height: 100%;
         background: #eb2141;
         z-index: 99;
-        transition: all .4s cubic-bezier(0.7, 0, 0.3, 1);
+        transition: all .3s cubic-bezier(0.7, 0, 0.3, 1);
       }
 
       &:hover::before {
@@ -59,8 +59,8 @@
         width: 100%;
         height: 4px;
         background: #eb2141;
-        transition: all .3s;
-        transition-delay: .4s;
+        transition: all .2s;
+        transition-delay: .3s;
       }
 
       &:hover::after {

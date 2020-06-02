@@ -1,5 +1,6 @@
 import React from "react";
 import style from "./Home.module.scss";
+import photo from "./../../../assets/img/photo.png"
 
 function Home () {
     return (
@@ -16,11 +17,12 @@ function Home () {
             </div>
             <div className={style.photo}>
                 <div className={style.colorBlock}></div>
-                <img src={"https://avatars.mds.yandex.net/get-pdb/2339219/a03b5fc4-4c91-4836-9af2-8324849215c5/s1200"}/>
+                <img src={photo}/>
             </div>
 
         </div>
     );
 }
+// "https://avatars.mds.yandex.net/get-pdb/2339219/a03b5fc4-4c91-4836-9af2-8324849215c5/s1200"
 
 export default Home;

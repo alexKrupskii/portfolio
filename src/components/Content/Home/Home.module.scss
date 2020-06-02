@@ -14,7 +14,7 @@
     height: 300px;
     justify-content: space-between;
 
-    .title {
+    h1 {
       span {
         color: #eb2141;
       }
@@ -22,7 +22,8 @@
     .text {
       text-align: right;
       line-height: 2;
-      font-size: 18px;
+      font-size: 16px;
+      margin-bottom: 20px;
     }
 
     .btn {
@@ -54,10 +55,11 @@
     }
     img {
       z-index: 10;
-      border: 10px solid black;
-      border-image: linear-gradient(rgba(14, 14, 14, 0.06), rgba(14, 14, 14, 0.67));
+      border: solid black;
+      border-right: 20px solid black;
+      border-bottom: 20px solid black;
+      border-image: linear-gradient(rgba(14, 14, 14, 0), rgba(14, 14, 14, 0.82));
       border-image-slice: 1;
-
       height: 95%;
     }
 
