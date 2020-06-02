@@ -11,13 +11,15 @@
 }
 
 .app {
+  display: flex;
   background: url(./assets/img/home_bg.jpg) no-repeat center top / cover;
   //background-color: #000;
   height: 100vh;
   font-family: "Poppins", sans-serif;
   color: white;
-  box-sizing: border-box;
+
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -27,7 +29,7 @@
   padding: 0 30px;
   height: 100vh;
   display: flex;
-
+  justify-content: center;
 }
 
 h1 {

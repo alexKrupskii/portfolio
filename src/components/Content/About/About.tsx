@@ -3,9 +3,8 @@ import style from "./About.module.scss";
 
 function About () {
     return (
-        <div className={style.home}>
-
-            12423235234
+        <div className={style.about}>
+            <h1 className={style.title}>ABOUT <span>ME</span></h1>
 
         </div>
     );

@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  align-content: center;
   height: 100%;
 
   .homeTitle{
@@ -34,6 +33,10 @@
       background-color: #EB2141;
       font-size: 14px;
       color: white;
+      transition: background-color 0.5s ease;
+      &:hover {
+        background-color: #0b95dd;
+      }
     }
   }
 
@@ -60,7 +63,7 @@
       border-bottom: 20px solid black;
       border-image: linear-gradient(rgba(14, 14, 14, 0), rgba(14, 14, 14, 0.82));
       border-image-slice: 1;
-      height: 95%;
+      height: 92%;
     }
 
   }

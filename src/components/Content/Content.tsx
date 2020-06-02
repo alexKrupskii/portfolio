@@ -7,8 +7,10 @@ import About from "./About/About";
 function Content () {
     return (
         <div className={style.content}>
-            <Route path='/home' render = {()=><Home />}/>
-            <Route path='/about' render = {()=><About />}/>
+            <div className="container">
+                <Route path='/home' render = {()=><Home />}/>
+                <Route path='/about' render = {()=><About />}/>
+            </div>
         </div>
     );
 }

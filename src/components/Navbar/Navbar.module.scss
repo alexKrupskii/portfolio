@@ -1,18 +1,19 @@
 .navbar {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
   height: 100%;
-  width: 115px;
+  width: 200px;
   border-right: 2px solid transparent ;
-  border-image: linear-gradient(rgba(235, 33, 65, 0.15),#eb2141, #0b95dd, rgba(11, 149, 221, 0.16));
+  border-image: linear-gradient(rgba(235, 33, 65, 0),#eb2141, #0b95dd, rgba(11, 149, 221, 0));
   border-image-slice: 1;
 
   .wrapper {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
     height: 250px;
 
 

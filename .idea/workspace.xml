@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7c49f082-bc09-418a-a080-896e70d8e84c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/About/About.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/About/About.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/About/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/About/About.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Content.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Content/Home/Home.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Home/Home.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Content/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Home/Home.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Content" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../social-network" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -71,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591102455228</updated>
-      <workItem from="1591102456661" duration="21541000" />
+      <workItem from="1591102456661" duration="22444000" />
+      <workItem from="1591135335829" duration="5883000" />
     </task>
     <task id="LOCAL-00001" summary="deleted idea">
       <created>1591130691347</created>
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591130691347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added portfolio to gh-pages">
+      <created>1591133334687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591133334687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -106,25 +117,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deleted idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted idea" />
+    <MESSAGE value="added portfolio to gh-pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="added portfolio to gh-pages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1591130690071">
+    <state x="552" y="178" key="#Inspections" timestamp="1591141093938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591130690071" />
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1591141093938" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1591133333602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591133333602" />
     <state x="595" y="298" key="EditFileWatcherDialog" timestamp="1591105544239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="595" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591105544239" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591137709471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591137709471" />
     <state x="830" y="417" key="Github.ShareDialog" timestamp="1591130564696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="830" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591130564696" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1591130699568">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1591133352557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591130699568" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591133352557" />
     <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1591127266079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
