@@ -6,10 +6,8 @@ import Content from "./components/Content/Content";
 function App() {
   return (
       <div className="app">
-
               <Navbar />
               <Content />
-
       </div>
   );
 }
