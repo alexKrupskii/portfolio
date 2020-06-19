@@ -1,30 +1,24 @@
 import React from "react";
 import style from "./Home.module.scss";
 import {Animated} from "react-animated-css";
-
+import {NavLink}  from "react-router-dom";
 
 function Home () {
 
     return (
         <div className={style.home}>
-
-
-            <div className={style.homeTitle}>
                 <Animated className={style.homeTitle} animationIn="fadeInUp" animationOut="fadeOut" isVisible={true} animationInDelay={1600} animationInDuration={600} >
                     <h2 className={style.subTitle}>HI THERE !</h2>
                     <h1 className={style.title}>I'M <span>ALEXANDR KRUPSKII</span></h1>
                     <span className={style.text}>
-                        I'm a Russian based web designer & front‑end developer focused on crafting
+                        I'm a Russian based front‑end developer focused on crafting
                         clean & user‑friendly experiences, I am passionate about building excellent
                         software that improves the lives of those around me.
                     </span>
                     <div>
-                        <button className={style.btn}>MORE ABOUT ME</button>
+                        <NavLink to='about' className={style.btn} activeClassName={style.activeLink}>MORE ABOUT ME</NavLink>
                     </div>
-
                 </Animated>
-            </div>
-
             <div className={style.photo}>
                 <Animated animationIn="fadeIn" animationOut="fadeOut" isVisible={true} animationInDelay={1300} animationInDuration={700} >
                     <div className={style.colorBlock}></div>

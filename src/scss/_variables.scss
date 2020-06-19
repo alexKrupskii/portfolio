@@ -1,13 +1,19 @@
+$screen-min-xs: 320px;
+$screen-min-sm: 480px;
+$screen-min-md: 640px;
+$screen-min-lg: 768px;
+$screen-min-xl: 1024px;
+$screen-min-xxl: 1200px;
 
-$screen-xs: 420px;
-$screen-sm: 576px;
-$screen-md: 768px;
-$screen-lg: 992px;
-$screen-xl: 1200px;
+$screen-max-xs: 479px;
+$screen-max-sm: 639px;
+$screen-max-md: 767px;
+$screen-max-lg: 1023px;
+$screen-max-xl: 1199px;
+$screen-max-xxl: 1529px;
 
+$base-duration: 500ms;
 
-$screen-xxs-max: 419px;
-$screen-xs-max: 575px;
-$screen-sm-max: 767px;
-$screen-md-max: 991px;
-$screen-lg-max: 1199px;
+$color-1: #2c3e50;
+$color-2: #eb2141;
+$color-3: #2ecc71;
